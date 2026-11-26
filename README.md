@@ -6,7 +6,19 @@ Repositorio para subir la documentacion de 2º SMX.
 
 ```
 Esto es un comentario
-
+```
  ### Tercer nivel para titulos
 
 > Esto no es un quote
+
+### Python
+
+_Programación en Python con Thonny._
+
+ ### Furcia
+* Claudia
+* Miranda
+* Noelia
+* Bailen
+
+[AULES](https://www.gva.es/va/inicio/presentacion)
