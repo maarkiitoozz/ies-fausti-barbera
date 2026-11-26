@@ -15,10 +15,10 @@ Esto es un comentario
 
 _Programación en Python con Thonny._
 
- ### Furcia
+ ### Profesoras
 * Claudia
 * Miranda
 * Noelia
 * Bailen
 
-[AULES](https://www.gva.es/va/inicio/presentacion)
+[AULES](https://www.gva.es/va/inicio/presentacion) - Acceso a Aules.
