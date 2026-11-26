@@ -16,9 +16,9 @@ Esto es un comentario
 _Programación en Python con Thonny._
 
  ### Profesoras
-* Claudia
+* Claudia Bols (Gorda y furcia)
 * Miranda
 * Noelia
 * Bailen
-
+* Josemi Pokeballs
 [AULES](https://www.gva.es/va/inicio/presentacion) - Acceso a Aules.
