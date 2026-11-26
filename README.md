@@ -7,6 +7,6 @@ Repositorio para subir la documentacion de 2º SMX.
 ```
 Esto es un comentario
 
-### Tercer nivel para titulos
+ ### Tercer nivel para titulos
 
 > Esto no es un quote
